@@ -1,0 +1,33 @@
+package Interfaces;
+
+import java.util.Scanner;
+
+public class Main {
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Calcular calculo;
+
+		int alturaQuadrado;
+		//int raioCirculo;
+		
+		Scanner ler = new Scanner(System.in);
+		
+		System.out.println("Informe a Altura do Quadrado: ");
+		alturaQuadrado = ler.nextInt();
+		//System.out.println("Informe o Rario do Cirtulo: ");
+		//raioCirculo = ler.nextInt();
+		
+		
+		System.out.println("O Perimetro do quadrado é " + calculo);
+		
+		
+		
+		
+	}
+
+}

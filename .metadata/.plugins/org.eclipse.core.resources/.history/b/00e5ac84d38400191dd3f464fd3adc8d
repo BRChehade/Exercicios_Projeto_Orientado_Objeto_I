@@ -1,0 +1,15 @@
+package Interfaces;
+
+public class Circulo implements Calcular {
+	
+
+
+	//calcularPermimetro
+	//P = 2 π . r
+	
+
+	//calcularArea
+	//A = π . r2
+	
+
+}

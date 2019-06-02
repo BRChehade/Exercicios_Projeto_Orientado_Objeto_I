@@ -1,0 +1,18 @@
+package br.edu.fapi.ex01;
+
+public class Pessoa {
+	
+	int rg;
+	int cpf;
+	String nome;
+
+ void Printar() {
+	// TODO Auto-generated method stub
+
+	 System.out.println("O nome é: " + pessoa.nome);
+		System.out.println("O RG é: " + pessoa.rg);
+		System.out.println("O CPF é; " + pessoa.cpf);
+}
+	
+
+}

@@ -1,0 +1,22 @@
+package Interfaces;
+
+public class Quadrado implements Calcular {
+	
+	//calcularPermimetro
+	//P = L + L + L + L
+	//	ou
+	//  P = 4L
+	
+	//calcularArea
+	// A = L2
+	
+	public int calcularQuadrado(int calcularPerimetro, int calcularArea) {
+		
+		return int calcularPerimetro, int calcularArea;
+	}
+	
+
+	
+	
+
+}

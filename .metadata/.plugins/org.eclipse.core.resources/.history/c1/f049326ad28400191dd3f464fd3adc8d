@@ -1,0 +1,18 @@
+package Interfaces;
+
+public class Quadrado implements Calcular {
+	
+	//calcularPermimetro
+	//P = L + L + L + L
+	//	ou
+	//  P = 4L
+	
+	@Override
+	public int calcularQuadrado(int calcularPerimetro) {
+		return 0;
+	}
+	
+
+	//calcularArea
+	// A = L2
+}

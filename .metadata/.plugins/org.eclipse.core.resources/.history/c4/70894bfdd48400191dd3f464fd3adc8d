@@ -1,0 +1,27 @@
+package Interfaces;
+
+public abstract class Circulo implements Calcular {
+
+	@Override
+	public int calcularQuadradoArea(int calcularArea) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int calcularCirculoArea(int calcularArea) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+
+	//calcularPermimetro
+	//P = 2 π . r
+	
+
+	//calcularArea
+	//A = π . r2
+	
+
+}

@@ -1,0 +1,29 @@
+package br.edu.pinhais.fapi.Interfaces.Calculadora;
+
+public class Operacoes implements Calcular {
+
+	@Override
+	public int calcularOperacaoSoma() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int calcularOperacaoSubtracao() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int calcularOperacaoMultiplicacao() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int calcularOperacaoDivisao() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

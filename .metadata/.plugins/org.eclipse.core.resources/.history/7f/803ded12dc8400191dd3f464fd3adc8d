@@ -1,0 +1,7 @@
+package br.edu.pinhais.fapi.Interfaces.Calculadora;
+
+public interface class Calcular {
+
+	int calcularOperacao();
+	
+}

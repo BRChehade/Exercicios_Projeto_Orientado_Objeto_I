@@ -1,0 +1,36 @@
+package Interfaces;
+
+import java.util.Scanner;
+
+public class Main {
+	
+	
+	
+
+	private static Scanner ler;
+	private static Calcular batata;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Calcular batata;
+
+		int alturaQuadrado;
+		//int raioCirculo;
+		
+		ler = new Scanner(System.in);
+		
+		System.out.println("Informe a Altura do Quadrado: ");
+		alturaQuadrado = ler.nextInt();
+		//System.out.println("Informe o Rario do Cirtulo: ");
+		//raioCirculo = ler.nextInt();
+		
+		
+		System.out.println("O Perimetro do quadrado é " + batata.calcularQuadradoPerimetro(alturaQuadrado) + " e a Area é: " + batata.calcularQuadradoArea(alturaQuadrado) + " :)");
+		
+		
+		
+		
+	}
+
+}

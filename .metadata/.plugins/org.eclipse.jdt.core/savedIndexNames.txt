@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Karam\Documents\Faculdade\Programação Orientada a Objetos I\.metadata\.plugins\org.eclipse.jdt.core
+735705145.index
+2525604767.index

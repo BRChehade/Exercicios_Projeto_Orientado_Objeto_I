@@ -1,0 +1,10 @@
+package Interfaces;
+
+public interface Calcular {
+	
+	int calcularQuadrado(int calcularPerimetro,int calcularArea);
+	int calcularCirculo(int calcularPerimetro,int calcularArea);
+	
+	
+
+}

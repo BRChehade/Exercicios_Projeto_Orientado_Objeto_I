@@ -1,0 +1,32 @@
+package Interfaces;
+
+public abstract class Quadrado implements Calcular {
+	
+	//calcularPermimetro
+	//P = L + L + L + L
+	//	ou
+	//  P = 4L
+	
+	//calcularArea
+	// A = L2
+
+	@Override
+	public int calcularCirculoPerimetro(int alturaQuadrado) {
+		// TODO Auto-generated method stub
+		
+		return alturaQuadrado + alturaQuadrado + alturaQuadrado +alturaQuadrado;
+	}
+
+	@Override
+	public int calcularCirculoArea(int alturaQuadrado) {
+		// TODO Auto-generated method stub
+		return alturaQuadrado * alturaQuadrado;
+	}
+
+	
+
+
+	
+	
+
+}

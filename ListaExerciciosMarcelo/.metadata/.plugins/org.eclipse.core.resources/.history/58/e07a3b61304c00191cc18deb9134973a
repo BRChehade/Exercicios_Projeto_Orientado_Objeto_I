@@ -1,0 +1,16 @@
+package br.edu.fapi.classe;
+
+public class Pessoa {
+
+	public static void Pessoa(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int RG;
+		int CPF;
+		String nome;	
+		
+		
+
+	}
+
+}

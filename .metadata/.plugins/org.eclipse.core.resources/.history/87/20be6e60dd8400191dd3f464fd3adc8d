@@ -1,0 +1,18 @@
+package br.edu.pinhais.fapi.Interfaces.Calculadora;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int num1;
+		int num2;
+		
+		Scanner ler = new Scanner(system.in);
+		
+		System.out.println();
+		
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package br.edu.fapi.ex01;
+
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner ler = new Scanner(System.in);
+
+		Pessoa pessoa = new Pessoa();
+
+		System.out.println("Informe seu nome: ");
+		pessoa.nome = ler.next();
+		System.out.println("Informe seu RG: ");
+		pessoa.rg = ler.nextInt();
+		System.out.println("Informe seu CPF: ");
+		pessoa.cpf = ler.nextInt();
+		
+		
+
+	}
+
+}

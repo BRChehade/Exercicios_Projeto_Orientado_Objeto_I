@@ -1,0 +1,29 @@
+package Interfaces;
+
+public class Circulo implements CalcularCirculo {
+
+
+	//calcularPermimetro
+	//P = 2 π . r
+	
+
+	//calcularArea
+	//A = π . r2
+		
+
+	@Override
+	public int calcularCirculoPerimetro(int raioCirculo) {
+		// TODO Auto-generated method stub
+		return (2 * 3.14)* raioCirculo;
+	}
+
+	@Override
+	public int calcularCirculoArea(int raioCirculo) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+
+
+}

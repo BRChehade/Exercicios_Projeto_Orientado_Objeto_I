@@ -1,0 +1,18 @@
+package br.edu.fapi.classe;
+
+public class Pessoa {
+	
+	int RG;
+	int CPF;
+	String nome;
+
+	public static void atributosPessoa(String[] args) {
+		// TODO Auto-generated method stub
+		
+			
+		
+		
+
+	}
+
+}

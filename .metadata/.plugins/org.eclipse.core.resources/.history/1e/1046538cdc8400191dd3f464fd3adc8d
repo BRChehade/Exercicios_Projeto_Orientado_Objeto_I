@@ -1,0 +1,10 @@
+package br.edu.pinhais.fapi.Interfaces.Calculadora;
+
+public interface Calcular {
+
+	int calcularOperacaoSoma();
+	int calcularOperacaoSubtracao();
+	int calcularOperacaoMultiplicacao();
+	int calcularOperacaoDivisao():
+	
+}
